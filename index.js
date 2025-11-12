@@ -73,10 +73,10 @@ console.log(color + `Running... spam-pairing-wa
 ┏❐ 
 ┃ [ FOLLOW THE INSTRUCTIONS BELOW, TO SPAM ]
 ┃
-┃⭔ Target Number ( 62xxxxxxx )
+┃⭔ Target Number ( 225xxxxxxx )
 ┃⭔ how much spam ( 1-1000 )
 ┃
-┃ [ THIS TOOL CAN ONLY BE USED ON NUMBER +62 ]
+┃ [ THIS TOOL CAN ONLY BE USED ON NUMBER +225 ]
 ┗❐ 
 =========================` + xColor);
 
